@@ -6,7 +6,7 @@ This project was created to practice my HTML and CSS skills.
 ## Project Fictional Tea Shop
 TealuxE is an online showcase for a fictional tea shop, designed with a clean and engaging interface to explore various tea products, read customer testimonials, and connect with the brand's story.
 
-
+![Example Image](images/main-page.png)
 
 ## Technologies
 This project was built with:
